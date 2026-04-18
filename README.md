@@ -1,5 +1,11 @@
 # Algorithmic trading Final Project: XAUUSD EMA crossover + RSI confirmation strategy
 
+## Group members
+
+- [J56164](https://github.com/J56164)
+- [Siamrat27](https://github.com/Siamrat27)
+- [NattawitMana](https://github.com/NattawitMana)
+
 ## Overview
 
 - XAUUSD EMA crossover + RSI confirmation strategy
